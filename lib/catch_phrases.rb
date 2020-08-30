@@ -12,4 +12,5 @@ def link
   stat = "It's Dangerous To Go Alone! Take This."
   puts stat
 end
+
 mario
