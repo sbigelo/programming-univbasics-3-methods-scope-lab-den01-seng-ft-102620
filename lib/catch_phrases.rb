@@ -14,9 +14,9 @@ def link
 end
 
 def all_phrases
-  puts phrase
-  puts status
-  puts stat
+  puts mario
+  puts toadstool
+  puts link
 end
 
-puts all_phrases
+all_phrases
