@@ -9,6 +9,7 @@ def toadstool
 end
 
 def link
-  stat = 
-
+  stat = "It's Dangerous To Go Alone! Take This."
+  puts stat
+end
 mario
