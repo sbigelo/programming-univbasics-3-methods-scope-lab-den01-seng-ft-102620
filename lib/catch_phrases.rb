@@ -19,4 +19,4 @@ def all_phrases
   puts stat
 end
 
-all_phrases
+puts all_phrases
