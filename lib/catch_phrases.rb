@@ -19,4 +19,4 @@ def all_phrases
   puts stat
 end
 
-mario
+all_phrases
