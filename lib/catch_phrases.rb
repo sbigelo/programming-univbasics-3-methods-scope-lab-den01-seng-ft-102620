@@ -13,4 +13,10 @@ def link
   puts stat
 end
 
+def all_phrases
+  puts phrase
+  puts status
+  puts stat
+end
+
 mario
